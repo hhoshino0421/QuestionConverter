@@ -60,34 +60,34 @@ func writeDetail_SmallClassification(fileObj *os.File, err error, lineText strin
 		return
 	}
 
-	detail_line := "				<![CDATA[" + strconv.Itoa(lineCount) + "]]>\n"
+	detail_line := "            <![CDATA[" + strconv.Itoa(lineCount) + "]]>\n"
 
 	detail_foot :=
-	`			 <PRESENTATION>
-                    <![CDATA[0|4]]>
-               </PRESENTATION>
-               <OPTIONS>
-                    <![CDATA[]]>
-               </OPTIONS>
-               <DEPENDITEM>
-                    <![CDATA[0]]>
-               </DEPENDITEM>
-               <DEPENDVALUE>
-                    <![CDATA[]]>
-               </DEPENDVALUE>
-          </ITEM>
-	`
+`        <PRESENTATION>
+            <![CDATA[0|4]]>
+        </PRESENTATION>
+        <OPTIONS>
+            <![CDATA[]]>
+        </OPTIONS>
+        <DEPENDITEM>
+            <![CDATA[0]]>
+        </DEPENDITEM>
+        <DEPENDVALUE>
+            <![CDATA[]]>
+        </DEPENDVALUE>
+    </ITEM>
+`
 
-	fileObj.WriteString("	<ITEM TYPE=\"numeric\" REQUIRED=\"0\">\n")
-	fileObj.WriteString("	   <ITEMID>\n")
+	fileObj.WriteString("    <ITEM TYPE=\"numeric\" REQUIRED=\"0\">\n")
+	fileObj.WriteString("        <ITEMID>\n")
 	fileObj.WriteString(detail_line)
-	fileObj.WriteString("	   </ITEMID>\n")
-	fileObj.WriteString("	   <ITEMTEXT>\n")
-	fileObj.WriteString("     		<![CDATA[" + sepData[0] + "]]>\n")
-	fileObj.WriteString("	   </ITEMTEXT>\n")
-	fileObj.WriteString("	   <ITEMLABEL>\n")
-	fileObj.WriteString("	       <![CDATA[" + sepData[1] + "]]>\n")
-	fileObj.WriteString("	   </ITEMLABEL>\n")
+	fileObj.WriteString("        </ITEMID>\n")
+	fileObj.WriteString("        <ITEMTEXT>\n")
+	fileObj.WriteString("            <![CDATA[" + sepData[0] + "]]>\n")
+	fileObj.WriteString("        </ITEMTEXT>\n")
+	fileObj.WriteString("        <ITEMLABEL>\n")
+	fileObj.WriteString("            <![CDATA[" + sepData[1] + "]]>\n")
+	fileObj.WriteString("        </ITEMLABEL>\n")
 	fileObj.WriteString(detail_foot)
 
 
@@ -99,10 +99,10 @@ func writeDetail_SmallClassification(fileObj *os.File, err error, lineText strin
 func writeHeader_SmallClassification( fileObj *os.File, err error) {
 
 	headerStr :=
-	`<?xml version="1.0" encoding="UTF-8" ?>
-	<FEEDBACK VERSION="200701" COMMENT="XML-Importfile for mod/feedback">
-		<ITEMS>
-	`
+`<?xml version="1.0" encoding="UTF-8" ?>
+<FEEDBACK VERSION="200701" COMMENT="XML-Importfile for mod/feedback">
+    <ITEMS>
+`
 
 	fileObj.WriteString(headerStr)
 
@@ -114,10 +114,9 @@ func writeHeader_SmallClassification( fileObj *os.File, err error) {
 func writeFooter_SmallClassification(fileObj *os.File, err error) {
 
 	footStr :=
-	`
-		</ITEMS>
-	</FEEDBACK>
-	`
+`    </ITEMS>
+</FEEDBACK>
+`
 
 	fileObj.WriteString(footStr)
 }

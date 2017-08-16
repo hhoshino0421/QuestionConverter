@@ -55,7 +55,7 @@ func writeDetail_SmallClassification(fileObj *os.File, err error, lineText strin
 
 	sepData := strings.Split(lineText, ",")
 
-	if len(sepData) <= 0 {
+	if len(sepData) <= 0 || len(sepData) > 2{
 		fmt.Println("File format error. Line:" +  strconv.Itoa(lineCount))
 		return
 	}
@@ -102,6 +102,29 @@ func writeHeader_SmallClassification( fileObj *os.File, err error) {
 `<?xml version="1.0" encoding="UTF-8" ?>
 <FEEDBACK VERSION="200701" COMMENT="XML-Importfile for mod/feedback">
     <ITEMS>
+    <ITEM TYPE="label" REQUIRED="0">
+        <ITEMID>
+            <![CDATA[324]]>
+        </ITEMID>
+        <ITEMTEXT>
+            <![CDATA[]]>
+        </ITEMTEXT>
+        <ITEMLABEL>
+            <![CDATA[]]>
+        </ITEMLABEL>
+        <PRESENTATION>
+            <![CDATA[<ul><li>レベル0: 知識、経験なし</li><li>レベル1: トレーニングを受けた程度の知識あり</li><li>レベル2: サポートがあれば実施できる</li><li>レベル3 :独力で実施できる、またはその経験あり</li><li>レベル4 :他者を指導できる、またはその経験あり</li></ul><hr>]]>
+        </PRESENTATION>
+        <OPTIONS>
+            <![CDATA[]]>
+        </OPTIONS>
+        <DEPENDITEM>
+            <![CDATA[0]]>
+        </DEPENDITEM>
+        <DEPENDVALUE>
+            <![CDATA[]]>
+        </DEPENDVALUE>
+    </ITEM>
 `
 
 	fileObj.WriteString(headerStr)

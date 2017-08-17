@@ -3,29 +3,6 @@
     <ITEMS>
     <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
-            <![CDATA[324]]>
-        </ITEMID>
-        <ITEMTEXT>
-            <![CDATA[]]>
-        </ITEMTEXT>
-        <ITEMLABEL>
-            <![CDATA[]]>
-        </ITEMLABEL>
-        <PRESENTATION>
-            <![CDATA[<ul><li>レベル0: 知識、経験なし</li><li>レベル1: トレーニングを受けた程度の知識あり</li><li>レベル2: サポートがあれば実施できる</li><li>レベル3 :独力で実施できる、またはその経験あり</li><li>レベル4 :他者を指導できる、またはその経験あり</li></ul><hr>]]>
-        </PRESENTATION>
-        <OPTIONS>
-            <![CDATA[]]>
-        </OPTIONS>
-        <DEPENDITEM>
-            <![CDATA[0]]>
-        </DEPENDITEM>
-        <DEPENDVALUE>
-            <![CDATA[]]>
-        </DEPENDVALUE>
-    </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
-        <ITEMID>
             <![CDATA[1]]>
         </ITEMID>
         <ITEMTEXT>
@@ -47,7 +24,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[1]]>
         </ITEMID>
@@ -70,7 +47,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[2]]>
         </ITEMID>
@@ -93,7 +70,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[3]]>
         </ITEMID>
@@ -116,7 +93,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[4]]>
         </ITEMID>
@@ -139,7 +116,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[5]]>
         </ITEMID>
@@ -162,7 +139,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[6]]>
         </ITEMID>
@@ -185,7 +162,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[7]]>
         </ITEMID>
@@ -208,7 +185,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[7]]>
         </ITEMID>
@@ -231,7 +208,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[8]]>
         </ITEMID>
@@ -254,7 +231,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[9]]>
         </ITEMID>
@@ -277,7 +254,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[10]]>
         </ITEMID>
@@ -300,7 +277,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[11]]>
         </ITEMID>
@@ -323,7 +300,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[12]]>
         </ITEMID>
@@ -346,7 +323,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[13]]>
         </ITEMID>
@@ -369,7 +346,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[14]]>
         </ITEMID>
@@ -392,7 +369,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[15]]>
         </ITEMID>
@@ -415,7 +392,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[16]]>
         </ITEMID>
@@ -438,7 +415,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[17]]>
         </ITEMID>
@@ -461,7 +438,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[18]]>
         </ITEMID>
@@ -484,7 +461,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[19]]>
         </ITEMID>
@@ -507,7 +484,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[20]]>
         </ITEMID>
@@ -530,7 +507,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[21]]>
         </ITEMID>
@@ -553,7 +530,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[21]]>
         </ITEMID>
@@ -576,7 +553,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[22]]>
         </ITEMID>
@@ -599,7 +576,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[23]]>
         </ITEMID>
@@ -622,7 +599,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[24]]>
         </ITEMID>
@@ -645,7 +622,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[25]]>
         </ITEMID>
@@ -668,7 +645,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[26]]>
         </ITEMID>
@@ -691,7 +668,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[26]]>
         </ITEMID>
@@ -714,7 +691,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[27]]>
         </ITEMID>
@@ -737,7 +714,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[28]]>
         </ITEMID>
@@ -760,7 +737,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[29]]>
         </ITEMID>
@@ -783,7 +760,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[29]]>
         </ITEMID>
@@ -806,7 +783,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[30]]>
         </ITEMID>
@@ -829,7 +806,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[31]]>
         </ITEMID>
@@ -852,7 +829,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[32]]>
         </ITEMID>
@@ -875,7 +852,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[32]]>
         </ITEMID>
@@ -898,7 +875,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[33]]>
         </ITEMID>
@@ -921,7 +898,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[34]]>
         </ITEMID>
@@ -944,7 +921,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[35]]>
         </ITEMID>
@@ -967,7 +944,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[35]]>
         </ITEMID>
@@ -990,7 +967,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[36]]>
         </ITEMID>
@@ -1013,7 +990,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[37]]>
         </ITEMID>
@@ -1036,7 +1013,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[38]]>
         </ITEMID>
@@ -1059,7 +1036,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[38]]>
         </ITEMID>
@@ -1082,7 +1059,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[39]]>
         </ITEMID>
@@ -1105,7 +1082,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[40]]>
         </ITEMID>
@@ -1128,7 +1105,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[40]]>
         </ITEMID>
@@ -1151,7 +1128,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[41]]>
         </ITEMID>
@@ -1174,7 +1151,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[42]]>
         </ITEMID>
@@ -1197,7 +1174,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[43]]>
         </ITEMID>
@@ -1220,7 +1197,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[44]]>
         </ITEMID>
@@ -1243,7 +1220,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[44]]>
         </ITEMID>
@@ -1266,7 +1243,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[45]]>
         </ITEMID>
@@ -1289,7 +1266,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[45]]>
         </ITEMID>
@@ -1312,7 +1289,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[46]]>
         </ITEMID>
@@ -1335,7 +1312,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[46]]>
         </ITEMID>
@@ -1358,7 +1335,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[47]]>
         </ITEMID>
@@ -1381,7 +1358,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[48]]>
         </ITEMID>
@@ -1404,7 +1381,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[49]]>
         </ITEMID>
@@ -1427,7 +1404,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[49]]>
         </ITEMID>
@@ -1450,7 +1427,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[50]]>
         </ITEMID>
@@ -1473,7 +1450,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[51]]>
         </ITEMID>
@@ -1496,7 +1473,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[52]]>
         </ITEMID>
@@ -1519,7 +1496,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[53]]>
         </ITEMID>
@@ -1542,7 +1519,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[54]]>
         </ITEMID>
@@ -1565,7 +1542,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[55]]>
         </ITEMID>
@@ -1588,7 +1565,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[56]]>
         </ITEMID>
@@ -1611,7 +1588,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[57]]>
         </ITEMID>
@@ -1634,7 +1611,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[58]]>
         </ITEMID>
@@ -1657,7 +1634,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[59]]>
         </ITEMID>
@@ -1680,7 +1657,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[60]]>
         </ITEMID>
@@ -1703,7 +1680,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[61]]>
         </ITEMID>
@@ -1726,7 +1703,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[61]]>
         </ITEMID>
@@ -1749,7 +1726,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[62]]>
         </ITEMID>
@@ -1772,7 +1749,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[63]]>
         </ITEMID>
@@ -1795,7 +1772,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[64]]>
         </ITEMID>
@@ -1818,7 +1795,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[65]]>
         </ITEMID>
@@ -1841,7 +1818,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[66]]>
         </ITEMID>
@@ -1864,7 +1841,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[67]]>
         </ITEMID>
@@ -1887,7 +1864,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[68]]>
         </ITEMID>
@@ -1910,7 +1887,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[69]]>
         </ITEMID>
@@ -1933,7 +1910,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[70]]>
         </ITEMID>
@@ -1956,7 +1933,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[71]]>
         </ITEMID>
@@ -1979,7 +1956,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[72]]>
         </ITEMID>
@@ -2002,7 +1979,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[73]]>
         </ITEMID>
@@ -2025,7 +2002,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[74]]>
         </ITEMID>
@@ -2048,7 +2025,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[75]]>
         </ITEMID>
@@ -2071,7 +2048,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[75]]>
         </ITEMID>
@@ -2094,7 +2071,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[76]]>
         </ITEMID>
@@ -2117,7 +2094,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[77]]>
         </ITEMID>
@@ -2140,7 +2117,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[78]]>
         </ITEMID>
@@ -2163,7 +2140,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[78]]>
         </ITEMID>
@@ -2186,7 +2163,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[79]]>
         </ITEMID>
@@ -2209,7 +2186,7 @@
             <![CDATA[]]>
         </DEPENDVALUE>
     </ITEM>
-    <ITEM TYPE="numeric" REQUIRED="0">
+    <ITEM TYPE="label" REQUIRED="0">
         <ITEMID>
             <![CDATA[80]]>
         </ITEMID>
